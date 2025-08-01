@@ -30,9 +30,9 @@ Our analysis focused on several key business areas, yielding the following insig
 
 ### 🥖 **2. Product Analysis**
 
-* **Top-Performing Product:** The **"[Top Product Name]"** is the clear leader, accounting for **[Percentage]%** of total quantity sold and **[Percentage]%** of total revenue.
-* **Product Portfolio:** The top **[Number]** products drive **[Percentage]%** of all sales, indicating a strong reliance on a few key items.
-* **Underperforming Products:** Products such as **"[Lowest Selling Product]"** show minimal sales and may warrant a review for potential discontinuation.
+* **Top-Performing Product:** The **"100 pcs in a jar"** is the clear leader, accounting for **32%** of total quantity sold and **28.6%** of total revenue.
+* **Product Portfolio:** The top **3** products drive **81.5%** of all sales, indicating a strong reliance on a few key items.
+* **Underperforming Products:** Products such as **"250 pcs in a jar"** show minimal sales and may warrant a review for potential discontinuation.
 
 
     <img src="images\product_analysis.png" alt="Sales Trend" width="650"/>
@@ -70,8 +70,8 @@ Our analysis focused on several key business areas, yielding the following insig
 Based on the insights above, we propose the following actions:
 
 1.  **Focus on Core Products & Customers:**
-    * **Action:** Develop a key account management program for our top **[Number]** customers to ensure retention and satisfaction.
-    * **Action:** Increase marketing efforts and ensure robust inventory for **"[Top Product Name]"** and other top-sellers.
+    * **Action:** Develop a key account management program for our top **3** customers to ensure retention and satisfaction.
+    * **Action:** Increase marketing efforts and ensure robust inventory for **"100 pcs in a jar"** and other top-sellers.
 
 2.  **Re-evaluate Discount Strategy:**
     * **Action:** Pause the current broad-based discount program.
